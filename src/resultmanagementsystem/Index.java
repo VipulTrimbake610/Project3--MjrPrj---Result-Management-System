@@ -31,8 +31,10 @@ public class Index extends javax.swing.JFrame {
         jLabel1 = new javax.swing.JLabel();
 
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
+        setBounds(new java.awt.Rectangle(150, 35, 0, 0));
         setMinimumSize(new java.awt.Dimension(1000, 650));
         setPreferredSize(new java.awt.Dimension(1000, 650));
+        setResizable(false);
         getContentPane().setLayout(new org.netbeans.lib.awtextra.AbsoluteLayout());
 
         jButton1.setFont(new java.awt.Font("Segoe UI", 3, 16)); // NOI18N

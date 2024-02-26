@@ -50,6 +50,7 @@ public class adminHome extends javax.swing.JFrame {
         jButton6 = new javax.swing.JButton();
 
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
+        setBounds(new java.awt.Rectangle(150, 35, 0, 0));
         setMinimumSize(new java.awt.Dimension(1000, 650));
         setPreferredSize(new java.awt.Dimension(1000, 650));
         getContentPane().setLayout(new org.netbeans.lib.awtextra.AbsoluteLayout());
